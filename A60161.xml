@@ -1,0 +1,677 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The youngmans guide in his way to heaven: or, A cabinet of rich jewels, left and bequeathed to all young persons by the reverend Mr. John Shrenock. B.D. Who dyed in the flower of his age, lying but seven days on his death bed; during which space of time, he wrought this sermon: desiring it might be preached at his funeral, and published for the benefit of all persons both young and old. With his last prayers. Licensed and entred according to order.</title>
+            <author>Shrenock, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60161</idno>
+            <idno type="STC">Wing S3695A</idno>
+            <idno type="STC">ESTC R219628</idno>
+            <idno type="EEBO-CITATION">99831084</idno>
+            <idno type="PROQUEST">99831084</idno>
+            <idno type="VID">35546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2112:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The youngmans guide in his way to heaven: or, A cabinet of rich jewels, left and bequeathed to all young persons by the reverend Mr. John Shrenock. B.D. Who dyed in the flower of his age, lying but seven days on his death bed; during which space of time, he wrought this sermon: desiring it might be preached at his funeral, and published for the benefit of all persons both young and old. With his last prayers. Licensed and entred according to order.</title>
+                  <author>Shrenock, John.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Conyers at the Black Raven in Hol..,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[c. 1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Signatures: AB⁴.</note>
+                  <note>Imperfect: title page cropped affecting imprint.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+               <term>Young men --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35546:1"/>
+            <pb facs="tcp:35546:1" rendition="simple:additions"/>
+            <p>The Youngmans Guide in his way to HEAVEN: OR, A CABINET of Rich Jewels, left and Bequeathed to all Young Perſons by the Re<g ref="char:EOLhyphen"/>verend Mr. <hi>John Shrenock.</hi> B. D. Who dyed in the flower of his Age, lying but ſeven days on his Death bed; du<g ref="char:EOLhyphen"/>ring which ſpace of time, he wrought this Sermon: deſiring it might be Preached at his Funeral, and publiſhed for the benefit of all perſons both young and old. With his laſt Prayers.</p>
+            <figure>
+               <figDesc>woodcut of a skeleton or figure of death preparing to thrust an arrow with his hand into a well-dressed young man or gentleman; nearby a young woman or lady holds her hand to the spot where she has been wounded by another arrow</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Licenſed and Entred according to order.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>J. Conyers</hi> at the <hi>Black Raven</hi> in <hi>Hol<g ref="char:EOLhyphen"/>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Church and <hi>Th<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> Inn</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:35546:2" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2. Chron. 34.2.</hi>
+                  </bibl> Whilſt he was yet young, he be<g ref="char:EOLunhyphen"/>gan to ſeek after the God of <hi>David</hi> his Father.</q>
+            </epigraph>
+            <p>THis whole Chaper, with the next, ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nothing but a recital of the Acts of good King <hi>Joſiah:</hi> he was a holy and good King as any we read of in the book of God, and this is a commendation of him; that he ſought the Lord God betimes, he was good when almoſt all were bad &amp; were turned into Idolatry: He in the twelfth year of his Reign began to purge <hi>Judah</hi> and <hi>Jeruſalem</hi> from the high places and the Groves, the Carved I<g ref="char:EOLhyphen"/>mages, and Molten Images, and they brake down the Altar of <hi>Baal</hi> in his preſence, <hi>ver.</hi> 3, 4. And when he had deſtroyed all the Idol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Worſhip, he ſet up the worſhip of the true God, and repaired the houſe of the Lord Great was his hatred to Idolatry, as you may read at large in the remaining part of the Chap<g ref="char:EOLhyphen"/>ter.</p>
+            <p>And as of all examples, the beſt ought to be followed and imitated, ſo I here preſent you with a moſt excellent pattern, and that is of good King <hi>Joſiah: Whilſt he was, yet young, he ſought the Lord God.</hi>
+            </p>
+            <p>
+               <hi>From which words we ſhall ſhew you, that it the duty of young men and young women to ſeek the Lord
+<pb facs="tcp:35546:2"/> in their youth, and to be really good betimes.</hi>
+            </p>
+            <p>
+               <hi>Reaſon,</hi> 1. Becauſe youth is the fitteſt time <hi>Remember thy Creator in the days of thy Youth</hi> ſaith <hi>Solomon. Eccleſ.</hi> 12.1. Not a few ſpar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hours, as one well notes, but days, every da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> working; it muſt be in the days of thy yout<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before the evil day comes, that is, before ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſickneſs ſeiſe on thee, and thou be mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unfit for ſo great a work.</p>
+            <p>The 2 <hi>Reaſon</hi> is, becauſe youth is a chuſing time. Oh when thou art a chuſing a fit objec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for thy eye, or heart, oh then think upon God and conſider if he be not the beſt choice. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall ſhew you thoſe excellencies that are in God and Chriſt, that thou ſhouldeſt chuſe him above all others.</p>
+            <p n="1">1. Are you poor, he is rich; art thou naked Chriſt hath white Raiment to cloath thee, ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou ſpiritually blind he hath an eye-ſalve to enlighten thee; art thou in great ſtraits, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath wiſdom, to counſel thee; art thou un<g ref="char:EOLunhyphen"/>righteous, unholy, he will give holineſs and ſanctification to thee; art thou an hungry, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thirſty, he will be the bread of life and fee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee, and wine to ſatisfie thy thirſty ſoul; ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou ſick, he will be thy Phyſician; in a word he will be All, and in all to thee; thou ſhal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> want nothing that is good for thee. Thus having choſen Chriſt to be thine, thou haſt go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:35546:3" rendition="simple:additions"/> the pearl of great price, the richeſt Jewel that that cannot be overvalu'd, therefore oh young men get Chriſt and make him your choice, and you have all that can be deſired.</p>
+            <p>Secondly, young women let me intreat you to make the ſame choice that <hi>Mary</hi> did, <hi>Lu.</hi> 10.42. But one thing is needful, <hi>Mary</hi> hath choſen the good part that ſhall not be taken from her ſhe had choſen Chriſt, ſhe had got a ſaving inte<g ref="char:EOLhyphen"/>reſt in Chriſt which is this one thing neceſſary.</p>
+            <p>Plutarch <hi>writes of</hi> Hannibal, <hi>that when he could have taken the great City of</hi> Rome <hi>he would not; and when he would, he could not;</hi> ſo many in their young years, when they might have mercy and grace, would not, and in their old Age, when they would have Chriſt, pardon, peace and Heaven, they cannot.</p>
+            <p>Thirdly, it was the commendation of <hi>Joſiah,</hi> that he ſerved the Lord betimes. And <hi>Timothy,</hi> that he know the Scriptures from a Child. And <hi>Obediah,</hi> that he feared the Lord from his Youth 1 <hi>Kings</hi> 8.12.</p>
+            <p>Again, <hi>Remember thy Creator</hi> preſently, in<g ref="char:EOLhyphen"/>ſtantly for thou knoweſt not whether thou ſhall ever attain to age, thou know'ſt not what a day may bring forth, therefore remember to know him to love him, to deſire, delight, to depend upon him, &amp; to get an intereſt in him, and to live unto him, remembring to walk with him. Firſt remember the Father, to know him, and to be
+<pb facs="tcp:35546:3" rendition="simple:additions"/> inwardly acquainted with him. Secondly re<g ref="char:EOLhyphen"/>member the Son, to believe and truſt in him, to imbrace him, and give up thy ſelf wholly unto him Remember the holy Spirit, ſo as to hear and obey his Voice, and feel his Preſence, and to experience his Influence, and thus thou oughteſt to remember thy Creator.</p>
+            <p>Saith <hi>Seneca, though Death be before the old Man's face, yet he may be as near the young Man's back.</hi> Man's life is but a ſhadow that ſoon paſ<g ref="char:EOLhyphen"/>ſeth away: and St. <hi>Auſtin</hi> doubteth which to call it. <hi>A dying life, or living death:</hi> Alas how many youngmen, when God calls for the Prim<g ref="char:EOLhyphen"/>roſe of their youth and vigor, put him off with the trembling joynts of <hi>Old age.</hi> Never had youth better opprotunities of being good than now, in theſe golden Sun-ſhining days of the Goſpel, wherein God and Chriſt and the holy Spirit, are offer'd in the Goſpel to ſinners, nay, the greateſt of ſinners, that will come in and ſubmit to the Scepter of Chriſt, and be ſaved, Oh young man, nay all perſons, re<g ref="char:EOLhyphen"/>member in this thy day, the things that belong to thy peace before they be hid from thy eyes, and thou go hence, &amp; be no more ſeen. Remem<g ref="char:EOLhyphen"/>ber that God will not always ſtrive with thee, <hi>Gen.</hi> 6. by his holy ſpirit; God gives every man and woman a day of grace, and if thou improve not that thou maieſt be undone for ever, there<g ref="char:EOLhyphen"/>fore conſider Reader ſeriouſly on theſe things,
+<pb facs="tcp:35546:4"/> Oh conſider young Men, young Women, all perſons in general, that this is the acceptable time, this is thy day of grace, even this day that is before thee, now or never.</p>
+            <p>
+               <hi>The Ancients (ſaith</hi> Eraſmus) <hi>paint Time with an hairy Forehead, but bald behind, to ſignifie that whilſt a man hath opportunity before him he may lay hold of it, but if he ſuffer it to ſlip away, he cannot pull it back again.</hi>
+            </p>
+            <p n="4">4. Conſider of this young men &amp; young wo<g ref="char:EOLhyphen"/>men, you are equally concern'd. Now in the flower of your days, remember your Creator and having begun well, continue in well do<g ref="char:EOLhyphen"/>ing, knowing your Labour ſhall not be vain in the Lord; pray and pray earneſtly to him for grace and his holy ſpirit to mortifie your cor<g ref="char:EOLhyphen"/>rupt luſts and affections; you have a great many enemies, the Fleſh, the World and the Devil, and againſt theſe muſt thou be always ſtriving and keeping a ſtrict watch, or thou wilt be overcome.</p>
+            <p>I ſhall endeavour to ſet before thee ſome of thoſe ſins that daily attend youth, and the firſt is <hi>Pride,</hi> and it is a reigning ſin in youngmen &amp; young women at this day: I think never more than now. Firſt, <hi>Pride of heart,</hi> Secondly <hi>Pride of Apparel.</hi> Oh, 'tis rare (ſaith one) to ſee young men humble and watchful, and to ſee an old man contented and cheerful. Saint <hi>Bernard</hi> ſaith; <hi>That Pride is the Rich Mans Cou<g ref="char:EOLhyphen"/>ſin, but Experience ſpeaks it to be the young Men and young Womens Couſin.</hi>
+            </p>
+            <pb facs="tcp:35546:4" rendition="simple:additions"/>
+            <p>God had three Sons, (ſaith one) <hi>Lucifer, Adam,</hi> and <hi>Chriſt;</hi> the firſt aſpired to be like God in Power, and was thrown from Heaven. The ſecond like him in knowledge, and was drove out of <hi>Eden</hi> when young. And the third was like God in Goodneſs, Mercy and Humilli<g ref="char:EOLhyphen"/>ty, and by ſo doing, obtained an everlaſting in<g ref="char:EOLhyphen"/>heritance. Remember this, young men, get to be be humble, and keep humble, for the humble God will teach: Pride is a great evil, and reigneth more in young men than ever. Conſi<g ref="char:EOLhyphen"/>der and leave it, leaſt God leave you, and that for ever. What evils did <hi>Belſhazzar, Haman</hi> and <hi>Herods</hi> Pride bring them to. Young Wo<g ref="char:EOLhyphen"/>men, let me intreat you in the bowels of love, and out of compaſſion to your immortal ſouls, that our Saviour ſo dearly bought with his moſt precious blood, to leave off thoſe patch<g ref="char:EOLhyphen"/>ings and paintings, which are the Devils badg<g ref="char:EOLhyphen"/>ges. O how like Monſters do too many Women in our times make themſelves, in their falſe Hair, as Towers and Bulls, (as they call them) and other ridiculous Faſhions, and gaudy Laſcivious Attire, not becoming Women profeſſing Godlineſs, 1. <hi>Tim.</hi> 2.7.8. ſaith St. <hi>Paul.</hi>
+            </p>
+            <p>Likewiſe, alſo the Women that they adorn themſelves in modeſt Apparel with ſhame<g ref="char:EOLhyphen"/>facedneſs and ſobriety, not with broidered
+<pb facs="tcp:35546:5" rendition="simple:additions"/> hair, or Gold, or Pearls, or coſtly Array: Oh how contrary to this Rule do the Women of our times walk. Read the 16. of <hi>Ezekiel</hi> throughout, and <hi>Deut.</hi> 22. <hi>ver.</hi> 5. to the end of the Chapter. And <hi>Iſaiah</hi> 3.6. to the end. <hi>Ter<g ref="char:EOLhyphen"/>tullians</hi> Counſel to young Men and Women, in this, <hi>To cloath your ſelves with the Silk of Pie<g ref="char:EOLhyphen"/>ty and with the Sattin of Sanctity, and with the Pur<g ref="char:EOLhyphen"/>ple of Modeſty, ſo ſhall you have God for your Suiter.</hi>
+            </p>
+            <p>The ſecond ſin of youth is, <hi>unlawful Plea<g ref="char:EOLhyphen"/>ſures;</hi> hear what <hi>Solomon</hi> the wiſeſt of Men ſaith, <hi>Rejoyce, O young Man, in thy youth; and let thy heart cheer thee in the days of thy Youth, and walk in the way of thy heart, and in the ſight of thine Eyes, but remember for all theſe things God will bring thee to Judgment.</hi>
+            </p>
+            <p>
+               <hi>Solomon</hi> doth not comply with Youth, to en<g ref="char:EOLhyphen"/>courage them to ſin; but by this way con<g ref="char:EOLhyphen"/>futes them of their folly; as much as to ſay, Thou mayeſt if thou wilt take thy pleaſure and eaſe, and ſatisfie thy vain appetite, with all manner of pleaſures that this world will af<g ref="char:EOLhyphen"/>ford, but remember that bitterneſs will attend thy pleaſures, God will bring to light thy deeds of Darkneſs; thoſe ſins that thou haſt com<g ref="char:EOLhyphen"/>mitted in ſecret, ſhall be brought to light, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring thee to Judgment, where thou muſt give an account of every idle word, and wicked
+<pb facs="tcp:35546:5" rendition="simple:additions"/> action, and then what will theſe pleaſures pro<g ref="char:EOLhyphen"/>fit thee, by the committing of which thou haſt loſt Heaven and Happineſs, and thy immortal Soul? I have read of a young Man that was very much giv'n to pleaſure, he ſtanding by St. <hi>Ambroſe,</hi> and ſeeing his moſt excellent Death, turn'd to the other young men by him, and ſaid <hi>Oh that I might live with you and dye with him.</hi> Again, there is a Curſe of inſatiableneſs in the Creature, <hi>Eccleſ.</hi> 1.8. <hi>The Eye is not ſaiisfied with ſeeing, nor the Ear with hearing,</hi> Pleaſure (ſaith one) is a beautiful Harlot, ſitting in her Charriot, whoſe Wheels are Pride and Glut<g ref="char:EOLhyphen"/>tony, Luſt and Idleneſs: the two Horſes are Proſperity and Abundance: the two Drivers, Idleneſs and Security: her Attendants are Grief, Guilt and too late Repentance, Death and Ruin. Many ſtrong men have been de<g ref="char:EOLhyphen"/>ſtroyed by her, but never any received full ſa<g ref="char:EOLhyphen"/>tisfaction and content in her: Therefore, O young Men, avoid this Harlot, come not near her door. St. <hi>Auguſtine</hi> before his Conver<g ref="char:EOLhyphen"/>ſion, could not tell how to live without thoſe Pleaſure, which he much delighted in, but when his nature was changed, and his heart graci<g ref="char:EOLhyphen"/>ouſly turn'd to God: <hi>Oh how ſweet is it</hi> (ſaith he) <hi>to be without thoſe former ſweet Pleaſures.</hi> A truly enlightned ſoul that hath taſted of the pleaſures that are in the enjoyment of Chriſt, Oh how bitter are all other pleaſures to him!</p>
+            <pb facs="tcp:35546:6" rendition="simple:additions"/>
+            <p>The third ſin of Youth is raſhneſs, <hi>They</hi> (ſaith <hi>Ariſtotle) know little and fear leſs.</hi> Saint <hi>Paul</hi> exhorts young men to be ſober minded and diſcreet; how many young men have had large Eſtates, and by their Folly, Raſhneſs, and Ex<g ref="char:EOLhyphen"/>travagancy, have brought themſelves; to Po<g ref="char:EOLhyphen"/>verty. Raſhneſs unmans a man, and will put him upon things below manhood. Should I diſcover the many evils that attend Raſhneſs which uſually Reigns in Youth. I ſhould ex<g ref="char:EOLhyphen"/>ceed my bounds, but let this ſuffice, and let all young men decline, and wholly forſake it.</p>
+            <p>The fourth ſin attending Youth is, mocking and Scoffing at Religion, and thoſe that are ho<g ref="char:EOLhyphen"/>lier than themſelves <hi>Job.</hi> 30 3, 4. <hi>But now,</hi> ſaith he, <hi>they that are younger than I have me in deriſion.</hi> Doth not this age abound with too many Scoffers at Religion, I leave any indiffe<g ref="char:EOLhyphen"/>rent party to judge? The <hi>Athenians</hi> ſcoffing at <hi>Silaſis</hi> Wife, had like to cauſe the deſtruction of their City, her Husband was ſo incenſed againſt them. I am afraid that our Atheiſm and ſcoffing at Religion and good men, hath ruined our City. <hi>Felix</hi> for one malicious ſcoff, did nothing day and night but vomit blood, till his unhappy ſoul was ſeparated from his wretched body.</p>
+            <p>The fifth Sin attending Youth is Luſt and Wantonneſs which cauſed St. <hi>Paul</hi> to admoniſh
+<pb facs="tcp:35546:6" rendition="simple:additions"/> 
+               <hi>Timothy, to flee worldly Luſt,</hi> notwithſtanding <hi>Timothy</hi> was a chaſt Youth: but St. <hi>Paul</hi> admo<g ref="char:EOLhyphen"/>niſheth him, knowing the temptations that at<g ref="char:EOLhyphen"/>tend Youth: much more need have we to warn the Youth of our days to flee thoſe youthful Luſt that ſo unman them, and make them ſo like to the beaſts that periſh: Oh how do too many in this Nation, in this City, in theſe Sub<g ref="char:EOLhyphen"/>burbs, inſtead of going to hear a Sermon on the Lords day walk in the Fields, or lie in an Alehouſe or Tavern: nay I am afraid ſome, too many, go to the curſed Harlots houſes, and there ſpend their time, but ſurely deſtruction will certainly attend ſuch practices. The poor youngman that murthered his fellow ſervant, <hi>Thomas Savage</hi> by name, confeſſed that the ſin of Whoredom and Sabbath-breaking brought him to the Gallows. Young man take heed by this ſad example now in time, leſt God make thee the next, for great and grievous is this ſin in the eyes of God, and he will ſeverely puniſh it upon all ſuch as follow it, as we ſee daily he hath done on ſeveral Perſons.</p>
+            <p>Sixthly, another grievous ſin too much pra<g ref="char:EOLhyphen"/>ctiſed by youth, is ſwearing, how too common is it, in many places in City and Coun<g ref="char:EOLhyphen"/>try, by men, women and children, notwith<g ref="char:EOLhyphen"/>ſtanding the foulneſs, vileneſs; and wickedneſs of this ſin, and ſo offenſive to Almighty God.</p>
+            <pb facs="tcp:35546:7" rendition="simple:additions"/>
+            <p>Conſider of it, before it be too late, for how doſt thou know; O thou filthy Swearer and Blaſphemer of Gods name, in thy curſed and filthy Oaths, wiſhing God to damn thee? but he may take thee at thy word, and ſend thee to Hell, there to abide to Eternity, <hi>Matth.</hi> 12 34. <hi>Out of the abundance of the heart the mouth ſpeaketh.</hi> So then if thy words are prophane thy heart is polluted: if it were a pure Foun<g ref="char:EOLhyphen"/>tain, it would not bring forth ſuch bitter ſtreams of filthineſs; if thou did bleſs God in thy heart thou wouldſt not blaſpheme with thy tongue <hi>James</hi> 3.10. Oaths are nothing but Badges of a vile and wicked perſon, even ſuch as are ſcu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Ale-houſes, Taverns, and filthy Priſons, as unſeemly evil in the moſt notorious Villains and High-way-men, much more in any that pre<g ref="char:EOLhyphen"/>tend the leaſt ſpark of Grace: Remember that <hi>God will not hold him guiltleſs that taketh his name in vain, Ex.</hi> 20. He that maketh no con<g ref="char:EOLhyphen"/>ſcience of ſmall Oaths, will not ſtick at great Ones. But ſome may object and ſay, I have been ſo accuſtomed to Swear that I cannot leave it; know this, that if thou canſt not alter thy cuſtom by Repentance, God can and will alter it by puniſhment, and therefore let all Men, Women and Children, leave this ſin as they tender the ſalvation of their immortal Souls, and rebuke it boldly in all Perſons guilty of it.</p>
+            <pb facs="tcp:35546:7" rendition="simple:additions"/>
+            <p>Saith St. <hi>Chryſoſtom, Youth is hard to be ruled, eaſie to be drawn away; apt to be deceived, and and ſtands in need of very violent Reins.</hi> Saith Cornelius, A Lapide, <hi>The Ancients did uſe to paint Youth like a young man naked, with a veil over his face, his right hand bound behind him, and his left hand looſe, and Time behind him pulling one thread out of his Veil every day intimating that youngmen are void of Knowledge, and blind, and unfit to do good ready to do evil, till time by little and little makes them wiſer.</hi> Conſider of this O young man; that the leaſt Dram of Pleaſure brings thee abundance of grief, and though thy paths ſeem to be ſtrewed with Roſe Buds of Delight and Pleaſure, yet bitterneſs will be the end. There are many other ſins that attend Youth, Ignorance, Falſhood, Impatiency under reproof, a trifling Spirit, Prodigality, Drun<g ref="char:EOLhyphen"/>kenneſs, and taking Gods name in vain, which ſins I would intreat thee, O young man, to a<g ref="char:EOLhyphen"/>void, as thou tenderneſt the good of thy immor-ſoul, and as thou expecteſt Heaven and Happi<g ref="char:EOLhyphen"/>neſs for ever, leave and loath theſe Sins, as thou wouldeſt a Toad or Serpent. I ſhall refer thee for thy further ſatisfaction to an excellent ſheet. Intituled, <hi>A timely Warning to Drunkards, Swear<g ref="char:EOLhyphen"/>ers and blaſphemers of Gods holy Name, and other lewd Livers.</hi>
+            </p>
+            <p>Again, I ſhall ſpeak a few words to Young
+<pb facs="tcp:35546:8" rendition="simple:additions"/> men. 1. As a Child under tuition of thy parent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2. As a Prentice under tuition of a Maſter. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> As a child in the firſt place, be diligent to ſerv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, hear the word preached, read the Scrip<g ref="char:EOLunhyphen"/>tures diligently and other good Books, be ſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to pray to God morning and evening, accord<g ref="char:EOLhyphen"/>ing to the example of holy <hi>David,</hi> if thou can not pray, buy a Book of Godly prayers till God ſhall enable thee to pray without a Book. Be ſure to reverence, reſpect and honour thy Pa<g ref="char:EOLhyphen"/>rents with all dutifulneſs and gentle behaviour as a Child of God ought to do.</p>
+            <p>I ſhall not be large in this, but refer thee t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an excellent ſheet named, Mr. <hi>Baxters direction for Family Duties, containing the duty of parent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to children, children to parents, Maſters to Ser<g ref="char:EOLhyphen"/>vants, and ſervants to maſters.</hi>
+            </p>
+            <p>Secondly, a word to thee as an Apprentice o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Servant: Firſt, be faithful and honeſt in that calling that God hath called thee to, giving reſpect to thy maſter and miſtreſs, obey the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in all their lawful commands, hear the advice of S. <hi>Paul, Servants be obedient to your maſters, in ſingleneſs of heart, Eph,</hi> 6, avoiding all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fering and making away thy maſters goods read the pattern of a good ſervant in that o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Joſeph, Gen.</hi> 30. he was ſo juſt, that his maſter committed all his goods into his poſſeſſion, and he miſſed nothing; afterward God raiſed him up to be the ſecond perſon in the Kingdom.</p>
+            <pb facs="tcp:35546:8" rendition="simple:additions"/>
+            <p>I have read of an <hi>Italian</hi> Poet who brings in a proper Young man, Rich and Potent, thus diſcourſing with Death in the habit of a Mow<g ref="char:EOLhyphen"/>er, with a Sythe in his hand cutting down the life of Man, <hi>(for all fleſh is graſs)</hi> Iſa. 40. <hi>and wilt thou not ſpare any Perſon,</hi> ſaith the young man. <hi>I ſpare none,</hi> ſaith Death; <hi>Man</hi>'s <hi>life is but a Day, a ſhort day, a Winters day; of<g ref="char:EOLhyphen"/>tentimes the Sun goes down upon a Man before it be well up; your day is ſhort, and your work is great and your Journey is long, and therefore you ſhould riſe early, and ſet forwards towards Hea<g ref="char:EOLhyphen"/>ven betimes, as that Man doth that hath a long Journey to go on a Winters day;</hi> every days ex<g ref="char:EOLhyphen"/>perience tells us that a young Mans Life is as much a vapour as the Old, and as much uncer<g ref="char:EOLhyphen"/>tain.</p>
+            <p>Again, young Men and young VVomen, if you would be really good, in the next place make ſure of your Converſion, for without Converſion there is no ſalvation: <hi>Except you be born again, you cannot enter into the Kingdom of Heaven,</hi> Joh. 3.3</p>
+            <p>St. <hi>Auſtins</hi> Converſion was on this wiſe, He heard a voice from Heaven, ſaying, <hi>take up and Read,</hi> and in opening the New Teſtament he fell upon the place of <hi>Romans</hi> 13.13.14. <hi>Let us walk honeſtly as in the day, not in Drun<g ref="char:EOLhyphen"/>kenneſs, not in Chambering and Wantonneſs, not in Strife and Envy, but put on the Lord Jeſus,
+<pb facs="tcp:35546:9" rendition="simple:additions"/> and make no proviſion for the fleſh, to obey it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Luſt thereof.</hi> The Scripture ſo wrough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon him, as it was the means of his converſio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> St. <hi>Cyprian</hi> was converted by reading the fir<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Chapter of <hi>Jonah. Junius</hi> was converted by reading the firſt chapt. of <hi>John</hi> the Evangeliſt.</p>
+            <p>I have read of <hi>Paphnutius,</hi> that he converted two Famous Strumpets. <hi>Thais</hi> and <hi>Ephron</hi> with this Scripture Argument: <hi>That God ſeet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all things in the dark when the doors are faſt, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> windows ſhut and the Curtains drawn.</hi>
+            </p>
+            <p>I have read of a poor Man that perſwaded a young Scholar from reading Poetry, and to fall upon reading the Scriptures, which he did and before he had read out <hi>Geneſis</hi> it pleaſed God to work a change in his heart, and tur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him to the Lord, in the 20th year of his Age.</p>
+            <p>Many more Examples might be produced to exctie young Perſons to the Study of the Scriptures, thou doſt not know but it may have the ſame influence on thy hard heart to ſofte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it and thy proud ſpirits to humble them, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your ſinful natures to change them, and yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may by the operation of the ſpirit, be conver<g ref="char:EOLhyphen"/>ted and ſaved by them.</p>
+            <p>Again further conſider O all young perſon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if in the ſpring and morning of your days yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do not bring forth fruits to God, it is ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much if you do ever, for death-bed Repe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tance is rarely true; <hi>for thoſe that ſtop th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ears to Gods early calls, he will ſhut his ears to
+<pb facs="tcp:35546:9" rendition="simple:additions"/> their late Prayers.</hi> It is a great honour to a man when he is old, that he can date his converſion from the morning of his youth. It was <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> honour that he died in a good old age: ſo St. <hi>Paul</hi>'s, that he was aged in years and grace: and St. <hi>John</hi> had thoſe Divine revelations when he was aged in years and grace. I ſay that God doth make large diſcoveries of himſelf to aged Chriſtians. <hi>Polycarpus</hi> could ſay when he was old, <hi>Many years have I ſerved my Maſter Chriſt, and hitherto he hath dealt well by me.</hi> By this you may ſee as in a glaſs, plainly the honour of be<g ref="char:EOLhyphen"/>ing an old diſciple of Chriſt.</p>
+            <p>Let me exhort you young Men and young Women in the words of that antient and faith<g ref="char:EOLhyphen"/>ful Servant of Jeſus Chriſt, <hi>T. Brooks,</hi> ſaith he, <hi>As you love your precious ſouls, and as you would ſcape Hell and come to Heaven, and as you would be happy in life, and bleſſed in death, and glorious after death, don't ſpend any more of your precious time in drinking and drabbing, in Carding and Dicing: do not trifle away your time, don't Swear away your time, don't Whore away your time, don't Lye away your time, but begin to be good betimes, becauſe Time is a Talent that God will reckon with you for.</hi>
+            </p>
+            <p>Again, conſider in the next place, Oh young men and women, how near you are to the ocean of Eternity, there is not a ſtep you ſtep, nor a breath you draw, nor moment of time you live,
+<pb facs="tcp:35546:10" rendition="simple:additions"/> but hath an influence on Eternity. O the gold<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sands will be quickly run out! Oh what a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing is your life, but a ſpan, a dream, a wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſhadow, a poſt, ſwifter than a poſt, <hi>Job</hi> 7.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Remember that you are all going to your long <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the houſe of Eternity;</hi> yet man doth not <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cern how his precious time doth fly from h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as the ſhadow on a Dial paſſeth on, from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hour to another, though its ſpeedy motio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not diſcern'd, ſo man paſſeth from infancy childhood, and from childhood to youth, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from youth to middle age, and ſo to old a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and to the grave; and how few are there t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take notice of it? yea in a moment we ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down into the grave and come up no m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> How theſe Meditations much trouble a <hi>Perſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> King, that having took a view of his vaſt Ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wept to think that within an hundred ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not one of them would be left alive.</p>
+            <p>Oh young men, tremble to conſider that y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are on the very brink of Death and Etern<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon the borders of Heaven, or the mouth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hell, and as ſoon as death hath ſhut your ey<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you ſhall ſee and know what you ſhall be, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever; for you are almoſt within the dread<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> noiſe of the Milſtone of Gods wrath, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ratling of fiery Chains of the priſoners of He<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Oh dolorous out-cries, and roaring of the d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ned in Hell! crying out, One and all. <hi>Oh w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> evil, and grievous evil, and bitter a thing i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:35546:10" rendition="simple:additions"/> which we would not believe till we came to this diſ<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al place of torment!</hi> There you may hear thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſed tormented ſinners, crying out in the ve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y anguiſh of their ſpirits, <hi>Oh when the Lord of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lory was at the door knocking, we would not let <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in, and now is Hells Mouth ſhut upon us for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver.</hi> There the filthy Swearer, Lyer and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laſphemer of Gods holy Name, that did tear <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd rend the Name of their Creator, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wear by the blood of their Redeemer, are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere with ſcorching tongues to bewail, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey ſhould take the Name of God in vain. There the impudent and ſwiniſh Drunkard, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad too often with his pleaſant Cups, and ſpark<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Wine, and curſing Companions, here in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Agony of his ſoul does wiſh that he had been <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ober and temperate; <hi>ſo that he might not have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſted the bitter wine of Gods wrath, the dregs of which he is made to drink for ever, Pſalm.</hi> 75.8. There the filthy Adulterers and curſed Harlots <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urning in their Helliſh luſt, crying out, Oh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat we had been chaſt, ſober and modeſt, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat our eyes had been blind, and never had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nown the face of man or woman, ſo we had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcaped the vengeance of eternal fire. There <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſhall hear the vile Atheiſt wiſhing that he had believed the Miniſters of Chriſt; but alas, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow it is too late. And likewiſe the World<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing choaked with Silver and Gold: There <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he cowardly back-ſlider in heart ſhall wiſh
+<pb facs="tcp:35546:11" rendition="simple:additions"/> that he had never know the way of God, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that he had been faithful unto death.</p>
+            <p>But you that are the Servants of God, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mourners in Sion, <hi>Lift up your heads, for your Re<g ref="char:EOLhyphen"/>demption draws nigh; and know that you are co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> within the hearing of the Heavenly Songs, Etern<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Triumphs and Hallelujahs of the Saints and Glo<g ref="char:EOLunhyphen"/>rious Angels in your Fathers houſe, where there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fulneſs of Joy and Pleaſure for evermore, Pſal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 16.11.</p>
+            <p>St. <hi>Jerom</hi> uſed to ſay, <hi>That whether he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or drink, I hear the voice ſound in my ear, Ariſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dead and come to Judgment.</hi>
+            </p>
+            <p>To conclude, Oh let the thoughts of thing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to come be much upon your ſpirits: every nigh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when thou goeſt to bed, and every morning have ſome ſerious thoughts of Death and Eter<g ref="char:EOLhyphen"/>nity, let it be by the Pen of a Diamond writ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> on your hearts. Death, that grim Porter, wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> open the Gates of Glory to every Believer, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let them into their Fathers houſe. Whoſo th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is wiſe will obſerve theſe things, he ſhall ſee th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſalvation of the Lord.</p>
+            <q>
+               <l>Stars are poor books, and oftentimes do miſs,</l>
+               <l>This book of Stars lights to eternal bliſs.</l>
+            </q>
+         </div>
+         <div type="prayers">
+            <pb facs="tcp:35546:11" rendition="simple:additions"/>
+            <head>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall inſert ſome Forms of Prayer for the be<g ref="char:EOLhyphen"/>nefit of ſuch young Perſons as ſhall ſtand in need of them.</head>
+            <div type="prayer">
+               <head>A Morning Prayer for Youth.</head>
+               <p>
+                  <hi>O</hi> Eternal, moſt Great, moſt Gracious, and ever Bleſſed Lord God, thou art a great God, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d greatly to be feared and reverenced of all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> draw nigh unto thee; thou art a Spirit, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou wilt be worſhipped in Spirit and in Truth, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ſuch worſhippers wilt thou be found, thus <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>king thee: we beſeech thee to pour down upon our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arts the ſpirits of Supplication and Prayer, ſo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to ſeek thee aright, and offer up an acceptable <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>vice, in and through the merits of our Bleſſed <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>viour and Redeemer Jeſus Chriſt, and through <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e aſſiſtance of thy holy ſpirit of truth, and let thy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly word be a Lanthorn to my feet, and a light <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to my paths, to lead me in the wayes of Truth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Holineſs, that I may obtain everlaſting Hap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>neſs, through the merits of my Bleſſed Saviour <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Redeemer Chriſt Jeſus. O Lord pardon my man<g ref="char:EOLhyphen"/>fold ſins and tranſgreſſions wherewith I have tranſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſſed againſt thee, in thought, word and deed, ſpecially the ſins and frailty of my youth O, Lord, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey have been many and great, and by reaſon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereof, I have merited thy wrath and Eternal Damnation: But O Lord in the midſt of judgment <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emember mercy; ſpare me, ſpare me, O Lord God, for thy loving kindneſs ſake in Chriſt Jeſus,
+<pb facs="tcp:35546:12" rendition="simple:additions"/> who hath ſatisfied thy Juſtice, and is ever ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> interceſſion for me at the Throne of Grace and mer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I deſire to bleſs and praiſe thy Name, O Lord Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for thy mercies and loving kindneſs to me and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mankind, that thou haſt preſerved and kept me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my ſleep from all manner of danger that might h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> befaln me, and that thou haſt brought me ſafe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the beginning of this day, and I bleſs thy holy Na<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for all the mercies that I have received from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to time from thee, before to give me gr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to walk thankfully beſeeching thee, and to live to t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> praiſe all the days of my life, I beſeech thee b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> my young and tender years with the gifts and gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ces of thy holy ſpirit, and to amend my life accor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing to thy holy word, and to paſs the time of my li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> here in thy fear that I may die in thy favour. I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſeech thee, O my God, to bleſs my Parents and Kindre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and all my Relations, and teach me to walk d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fully before them, as becomes a Child of God, ha<g ref="char:EOLhyphen"/>ving thy fear before mine eyes and thy ſpirit directing my heart, that I may always do thoſe things tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are well pleaſing in thy ſight, O Lord my ſtrength and Redeemer, &amp; make me thy true and faithful Ser<g ref="char:EOLhyphen"/>vant; teach me to love and ſerve thee O my Bleſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Saviour and Redeemer, all the days of my life, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I may live in thy fear, and at laſt die in thy favour, Grant me theſe poor Petitions, O Lord, for the ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of my Bleſſed Saviour and Redeemer, Jeſus Christ to whom be Honour, Praiſe and Glory, now and for evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:35546:12" rendition="simple:additions"/>
+               <head>The Maids Prayer.</head>
+               <p>
+                  <hi>O</hi> Lord, let thy Hand-maid, I pray thee, ſpeak in thine Audience, and hearken unto her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen ſhe calleth upon thee, O deſpiſe not her low ſtate, when ſhe offereth up her Supplication unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee, but how down thine Ears to the hearty de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>res of thy poor Servant, teach me to ask aright <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ſuch things as are requiſite for me both for Soul <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Body; and though thou haſt ordained Women <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be the weaker Veſſels, both in labours of the Body <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd endeavours of the mind; yet ſo ſtrengthen me, O my Lord that I may perform that labour whereun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o I am called, with eaſineſs and comfort; Oh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nlighten my Soul with thy Divine inſpiration, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may do thoſe things that are well pleaſing in thy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght; let me keep my Reputation honeſt in the eyes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the world, knowing that a good Name is bet<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er then precious Oyntment; eſpecially in thy ſight <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et me be pure, honeſt and undefiled in this World, ſo ſhall I not be aſhamed in the great day of my ac<g ref="char:EOLhyphen"/>count; give me chaſt and religious thoughts let not the wanton pleaſures of the fleſh drown in me the Heavenly treaſures of thy ſpirit; Defend me from Sin, Satan, and the Poyſon of evil Tongues: make <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne faithful, wiſe, wary, truſty and juſt in thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings committed to my charge by my Maſter and Miſtreſs, Father and Mother: Grant me health of body, quietneſs of mind, gentleneſs towards eve<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:35546:13"/> body, put out of my heart all Pride, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hatred, and all uncharitableneſs; give me t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rit of contentment in all conditions, though I ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wealth and dowry as others have in this worl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I truſt thou wilt give me the true Riches. Gra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grace that I may love, ſerve honour and obey <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in Holineſs and Righteouſneſs all my dayes, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may enjoy thee for ever in the World to come. G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe my Petitions for the ſake of Jeſus Chriſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Saviour and Redeemer. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>The Dying Mans laſt Prayer.</head>
+               <p>
+                  <hi>O</hi> Lord God, who art the Health of all Me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ving, and the everlaſting Life of them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> die in thy Faith; I poor Creature ſubmit to thy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will. I humbly beſeech thee, O Lord, to give grace, that I may now willingly lay down this <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Body in hope of the Reſurrection which in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> manner ſhall be reſtored again. O moſt mer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Saviour, that when Death hath ſhut up the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of my Body, my Soul may be received up unto th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord Jeſus Receive my Spirit, and take me to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mercy. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="notice">
+            <p>
+               <hi>Whereas certain incroaching diſhoneſt p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſons have counterfeited this Book, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> book is only to be had of</hi> J. Conyers <hi>at the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the</hi> Raven <hi>over againſt</hi> Ely-Houſe <hi>in</hi> Hol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35546:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
